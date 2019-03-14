@@ -2,6 +2,8 @@
 
 ## Chapter 1
 
+I am Pol, I like boring text.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel finibus elit, a volutpat massa. Maecenas libero erat, blandit ut dui ut, tincidunt ultricies elit. Curabitur fringilla erat eget odio pharetra, sed sagittis velit cursus. In vestibulum elit tortor, venenatis gravida massa eleifend ut. Curabitur tempus semper elit, pretium convallis mi congue ac. Nunc ultrices lorem at odio pharetra semper. Aliquam erat volutpat. Fusce augue augue, aliquet quis nulla nec, efficitur accumsan risus. Duis commodo leo pharetra risus mollis, eu aliquet ex posuere. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum finibus risus sed eros egestas, sed commodo nisi consectetur. Nam eros sapien, semper ac cursus nec, venenatis vitae lorem. Quisque dapibus molestie feugiat.
 
 ## Chapter 2
