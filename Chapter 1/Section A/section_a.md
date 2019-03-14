@@ -5,6 +5,8 @@ When we walked in the rose garden, a mild wind was blowing.
 
 Red Leader... This is Gold Leader. We're starting out attack run. I copy, Gold Leader. Move into position. Stay in attack formation! The exhaust post is... marked and locked in! Switch power to front deflector screens. How many guns do you think, Gold Five. I'd say about twenty guns. Some on the surface, some on the towers. Death Star will be in range in five minutes. Switching to targeting computer. Computer's locked. Getting a signal. The guns...they've stopped! Stabilize your read deflectors. Watch for enemy fighters.
 
+A deer jumped out of the shrubbery.
+
 Luke! Luke! Luke! Hey! Hey! I knew you'd come back! I just knew it! Well, I wasn't gonna let you get all the credit and take all the reward. Hey, I knew there was more to you than money. Oh, no! Oh, my! Artoo! Can you hear me? Say something! You can repair him, can't you? We'll get to work on him right away. You must repair him! Sir, if any of my circuits or gears will help, I'll gladly donate them. He'll be all right.
 
 He says it's the best he can do. Since the XP-38 came out, they're just not in demand. It will be enough. If the ship's as fast as he's boasting, we ought to do well.
